@@ -1,0 +1,11 @@
+{
+  "name": "solana-token-tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "@solana/web3.js": "latest",
+    "@solana/spl-token": "latest",
+    "chalk": "latest"
+  }
+}
